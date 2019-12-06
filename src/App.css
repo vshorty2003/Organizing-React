@@ -1,0 +1,19 @@
+header {
+    background-color: gray;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.app_title {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+    margin: auto;
+}
+
+main {
+    display: flex;
+}
